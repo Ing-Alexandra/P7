@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Procesador
+comment1.params=fabricante\ numSerie\ marca\ nombre\ esParteDe\ memoriaRAM\ ghz
+comment1.target=Procesador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ DispositivoElectronico,\ int,\ long)
+comment2.params=fabricante\ numSerie\ marca\ nombre\ memoriaRAM\ ghz
+comment2.target=Procesador(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ long)
+comment3.params=
+comment3.target=int\ getmemoriaRAM()
+comment4.params=
+comment4.target=long\ getghz()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

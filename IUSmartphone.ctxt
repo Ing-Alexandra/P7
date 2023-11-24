@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IUSmartphone
+comment1.params=nombreImagen\ smart
+comment1.target=IUSmartphone(java.lang.String,\ Smartphone)
+comment2.params=e
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment3.params=
+comment3.target=java.awt.Dimension\ getPreferredSize()
+comment4.params=g
+comment4.target=void\ paintComponent(java.awt.Graphics)
+numComments=5

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Television
+comment1.params=fabricante\ numeroSerie\ marca\ nombre\ costo\ pantalla
+comment1.target=Television(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ Pantalla)
+comment2.params=
+comment2.target=Pantalla\ getPantalla()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

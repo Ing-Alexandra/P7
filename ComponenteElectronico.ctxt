@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ComponenteElectronico
+comment1.params=fabricante\ numSerie\ marca\ nombre\ esParteDe
+comment1.target=ComponenteElectronico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ DispositivoElectronico)
+comment2.params=fabricante\ numSerie\ marca\ nombre
+comment2.target=ComponenteElectronico(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=esParteDe
+comment3.target=void\ setEsParteDe(DispositivoElectronico)
+comment4.params=
+comment4.target=DispositivoElectronico\ getEsParteDe()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

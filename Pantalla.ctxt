@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Pantalla
+comment1.params=fabricante\ numSerie\ marca\ nombre\ esParteDe\ pixelesAncho\ pixelesLargo
+comment1.target=Pantalla(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ DispositivoElectronico,\ int,\ int)
+comment2.params=fabricante\ numSerie\ marca\ nombre\ pixelesAncho\ pixelesLargo
+comment2.target=Pantalla(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment3.params=
+comment3.target=int\ getpixelesAncho()
+comment4.params=
+comment4.target=int\ getpixelesLargo()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Computadora
+comment1.params=fabricante\ numeroSerie\ marca\ nombre\ costo\ cpu\ bytesRAM
+comment1.target=Computadora(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ float,\ Procesador,\ long)
+comment2.params=
+comment2.target=Procesador\ getCpu()
+comment3.params=cpu
+comment3.target=void\ setCpu(Procesador)
+comment4.params=
+comment4.target=long\ getbytesRAM()
+comment5.params=bytesRAM
+comment5.target=void\ setbytesRAM(long)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
